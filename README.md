@@ -36,4 +36,6 @@ Please follow the below guidleines.  It helps to keep our code uniform and easy 
 3. commit finished code often
 4. only commit error-free code
 5. include detailed comments of new code in commits and in the code itself
+6. for larger commits, create a **new branch** that is named appropriately, and [submit a pull request](https://help.github.com/articles/using-pull-requests)
+7. 
 
