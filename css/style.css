@@ -1,0 +1,38 @@
+/* CSS Document */
+
+#tedxabq-logo {
+  margin: 0 5%; 
+  max-width: auto;
+  max-height: 100%; 
+}
+
+#buy-tickets {
+  margin-left: 5%;
+  max-width: 100%;
+  max-height: auto; 
+}
+
+#text-get-tickets {
+  font-size: 24px;
+  margin: .5em 0;
+}
+
+
+
+/* MEDIA QUERIES */
+/* Large screens */
+
+
+/* Medium screens */
+
+
+/* Small screens */
+
+
+/* Extra Small screens */
+
+media screen and ( max-width = 300px ) {
+  #buy-tickets {
+    margin: 1em 0;
+  }
+}
